@@ -1,35 +1,40 @@
   body {
-      background-color: #ebf3e8;
+    background-color: #ebf3e8;
+    padding: 4% 10%;
   }
 
   hr {
-      border-color: #86a789;
-      border-style: dotted;
-      height: 0px;
-      width: 20%;
-      border-left-style: none;
-      border-bottom-style: none;
-      border-right-style: none;
-      border-width: 8px;
+    border-color: #86a789;
+    border-style: dotted;
+    height: 0px;
+    width: 20%;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+    border-width: 8px;
   }
 
   img {
-      border-radius: 100px;
-      height: 150px;
+    border-radius: 100px;
+    height: 150px;
   }
 
   h1 {
-    color:  #618264;
+    color: #618264;
   }
+
   h3 {
     color: #618264;
   }
-th {
+
+  th {
     color: #79ac78;
-}
-tr{
+  }
+
+  tr {
     color: #7d7c7c;
-}
-li {
+  }
+
+  li {
     color: #7d7c7c;
-}
+  }
